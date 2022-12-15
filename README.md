@@ -22,3 +22,17 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## 账号1
+```
+admin
+admin
+```
+
+## 账号2
+```
+xiaoxiao
+xaioxiao
+```
+# vue-demo-manage
